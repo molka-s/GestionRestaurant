@@ -1,0 +1,30 @@
+1;Burger classique;teak haché, cheddar, tomate, oignons, salade, sauce burger.;12.0;Sandwich;C:\Users\user\Downloads\images.jpeg
+3;Fondant au chocolat;Gâteau cœur coulant au chocolat noir.;8.0;Dessert;C:\Users\user\Downloads\fond.jpeg
+4;Jus d’orange;100% oranges fraîches pressées.;8.0;Boisson;C:\Users\user\Downloads\jus.png
+5;Croissant au beurre;Feuilletage pur beurre, doré au four.;2.5;Viennoiserie;C:\Users\user\Downloads\croi.jpeg
+6;Tiramisu;Recette italienne traditionnelle avec café et mascarpone;11.0;Dessert;C:\Users\user\Downloads\tira.jpg
+7;crème brûlée;Parfum vanille, caramélisée à la torche;13.0;Dessert;C:\Users\user\Downloads\crem.jpeg
+8;Eau minérale (50 cl);Plate ou gazeuse;1.5;Boisson;C:\Users\user\Downloads\eau.jpeg
+9;Salade Niçoise;Mélange de thon, œufs durs, tomates, olives, haricots verts;12.0;Salade;C:\Users\user\Downloads\nice.jpeg
+10;Croque-monsieur;Pain de mie, jambon, fromage fondu, grillé;9.0;Sandwich;C:\Users\user\Downloads\croque.jpeg
+11;Pizza Margherita;Tomates, mozzarella, basilic frais, huile d'olive;10.0;Plat;C:\Users\user\Downloads\pizza.jpeg
+12;Couscous Tunisien;Couscous servi avec un ragoût de viande (agneau, poulet) et des légumes;15.0;Plat;C:\Users\user\Downloads\cous.jpg
+13;Salade de fruits de mer;Mélange de fruits de mer (crevettes, poulpe) avec des légumes frais (tomates, concombre);17.0;Salade;C:\Users\user\Downloads\mer.jpeg
+14;Salade Tunisienne;Mélange de tomates, concombres, poivrons, olives, oignons avec du thon;9.0;Salade;C:\Users\user\Downloads\tun.jpeg
+15;Salade de légumes grillés;Mélange de légumes grillés aubergines, poivrons, courgettes;11.0;Salade;C:\Users\user\Downloads\grill.jpeg
+16;Cheesecake;Gâteau crémeux à base de fromage frais;13.0;Dessert;C:\Users\user\Downloads\cheesecake.jpeg
+17;Mousse au chocolat;Crème légère et aérée à base de chocolat fondu et de crème chantilly;11.0;Dessert;C:\Users\user\Downloads\mousse.jpeg
+18;Tarte aux fruits;Pâte sablée garnie de crème pâtissière et de fruits frais de saison;14.0;Dessert;C:\Users\user\Downloads\tarte.jpeg
+19;Limonade;Boisson sucrée à base de citron et d'eau, avec un zeste de menthe ;8.0;Boisson;C:\Users\user\Downloads\limonade.jpg
+20;Smoothie;Mélange de fruits fraîs, de yaourt et de glace pilée;11.0;Boisson;C:\Users\user\Downloads\smoothie.jpg
+21;Café espresso;Café noir fort, souvent servi dans une petite tasse;5.0;Boisson;C:\Users\user\Downloads\cafe.jpeg
+23;Club sandwich;Pain de mie grillé, poulet, bacon, laitue, tomate, mayonnaise;8.0;Sandwich;C:\Users\user\Downloads\club.jpeg
+24;Sandwich wrap au poulet;Poulet grillé, salade, tomate, sauce au yaourt dans un wrap;8.0;Sandwich;C:\Users\user\Downloads\poulet.jpeg
+25;Pain au chocolat;Pâte feuilletée garni de deux bâtonnets de chocolat;2.0;Viennoiserie;C:\Users\user\Downloads\croiss.jpeg
+26;Pain au raisin;Pâte feuilletée roulée avec des raisins secs, crème pâtissière et un peu de sucre;2.5;Viennoiserie;C:\Users\user\Downloads\raisin.jpg
+27;Brioche;Pain moelleux et sucré à base de beurre, œufs et lait;2.0;Viennoiserie;C:\Users\user\Downloads\briche.jpeg
+28;Paella;Plat espagnol à base de riz et de fruits de mer ;18.0;Plat;C:\Users\user\Downloads\paella.jpeg
+29;Spaghetti Bolognese;Pâtes servies avec une sauce à base de viande hachée, tomate, ail et herbes;14.0;Plat;C:\Users\user\Downloads\spagu.jpeg
+30;Glace ;Crème glacée onctueuse préparée avec des ingrédients de qualité, servie au choix parmi nos parfums classiques et gourmands;11.0;Dessert;C:\Users\user\OneDrive\Desktop\glace_au_chocolat.jpg
+31;Crêpe Choco-Banane;Crêpe généreusement garnie de chocolat fondant et de rondelles de banane fraîche, le tout couronné d’une pointe de chantilly.  ;15.0;Dessert;C:\Users\user\OneDrive\Desktop\0881c30f6435c912fa170d88f038ac8b.jpg
+32;Soupe;Un bol chaud et réconfortant à base de légumes frais, parfait pour commencer un repas ou se réchauffer en hiver.;10.0;Plat;C:\Users\user\OneDrive\Desktop\i154553-shutterstock-409181518.jpeg
